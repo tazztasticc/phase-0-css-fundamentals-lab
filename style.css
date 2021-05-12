@@ -3,3 +3,21 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;}
+div {
+  text-align: center;
+}
+img {
+  text-align:center ;}
+
+#details {
+    background-color: red;
+    overflow: hidden;
+    width: 200px;
+  }
+
+div{
+  float: left;
+}
